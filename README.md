@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on some personal projects.
 - 📫 How to reach me johnmarkbrinas@gmail.com
 
-<!---
-kyooowe/kyooowe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/kyooowe"><img src="https://api.daily.dev/devcards/10b1fd19dce142669e5e3f4188978f81.png?r=9oc" width="400" alt="kyooowe's Dev Card"/></a>
