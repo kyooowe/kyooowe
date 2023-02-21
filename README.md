@@ -1,5 +1,8 @@
+<img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">
 <h1 align="center">Hi 👋, I'm John Mark Brinas</h1>
 <h3 align="center">@kyooowe</h3>
+
+<img align="right" alt="Coding" width="300" height="200" left="100" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **Yondu, INC**
 
