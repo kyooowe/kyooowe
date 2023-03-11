@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm John Mark Brinas</h1>
 <h3 align="center">@kyooowe</h3>
 
-<img align="right" alt="Coding" width="300" height="200" left="100" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<a href="https://app.daily.dev/kyooowe"><img align="right" src="https://api.daily.dev/devcards/10b1fd19dce142669e5e3f4188978f81.png?r=82w" width="400" alt="kyooowe's Dev Card"/></a>
 
 - 🔭 I’m currently working on **Yondu, INC**
 
