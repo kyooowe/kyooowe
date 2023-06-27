@@ -1,4 +1,4 @@
-<img alt="doggo" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/74731f76965389.5c7945b0cfcc3.gif">
+
 <h1 align="center">Hi 👋, I'm John Mark Brinas</h1>
 <h3 align="center">@kyooowe</h3>
 
